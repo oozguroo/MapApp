@@ -1,6 +1,7 @@
 # Map Coordinate Saver
 
 This is a small web application developed using .NET, ASP.NET Core Web API, and Angular CLI. The application allows users to save map coordinates to a database.
+![image](https://github.com/oozguroo/MapApp/assets/24260940/38e2487d-464e-4899-839d-6adaf3c9d855)
 
 ## Technologies Used
 
