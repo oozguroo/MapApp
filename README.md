@@ -45,6 +45,6 @@ Please ensure that you have these packages installed before you try to run the p
 
 ## Usage
 
-After starting the application, you can navigate to `http://localhost:4200/points` in your web browser to use the application.
+After starting the application, you can navigate to `https://localhost:4200/points` in your web browser to use the application.
 The application interacts with the API endpoint at `https://localhost:5001/api/points` to perform operations on the points data.
 This API endpoint is responsible for handling requests related to points data, such as retrieving, creating, downloading , and deleting points.
